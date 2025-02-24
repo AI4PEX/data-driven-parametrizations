@@ -10,7 +10,7 @@
 
 ----------
 
-This repository contains a collection of data'driven and ML-based
+This repository contains a collection of data-driven and ML-based
 parametrization for climate models developed in the AI4PEX project. 
 
 
