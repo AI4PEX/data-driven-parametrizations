@@ -1,0 +1,3 @@
+[submodule "hybrid-q10-model-chm"]
+	path = hybrid-q10-model-chm
+	url = https://github.com/KaiHCohrs/hybrid-q10-model-chm
