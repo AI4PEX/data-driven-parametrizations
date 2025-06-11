@@ -13,6 +13,15 @@
 This repository contains a collection of data-driven and ML-based
 parametrization for climate models developed in the AI4PEX project. 
 
+### point of contact :email:
+
+[ISP at UVEG](https://isp.uv.es/) 
+
+- gherardo varando <gherardo.varando@uv.es>
+- Kai-Hendrik Cohrs <kai.cohrs@uv.es> 
+- Andrei Gavrilov <andrei.gavrilov@uv.es> 
+
+
 
 ## Atmosphere :cloud:
 
