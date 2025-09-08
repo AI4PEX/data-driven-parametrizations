@@ -4,3 +4,6 @@
 [submodule "stochastic-rnn"]
 	path = stochastic-rnn
 	url = https://github.com/andrei-ml/stochastic-rnn
+[submodule "HybridVariationalInference.jl"]
+	path = HybridVariationalInference.jl
+	url = https://github.com/EarthyScience/HybridVariationalInference.jl
