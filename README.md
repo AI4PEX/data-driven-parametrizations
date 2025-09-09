@@ -38,8 +38,7 @@ parametrization for climate models developed in the AI4PEX project.
 
 ## Atmosphere :cloud:
 
-- [Stochastic recurrent neural network](https://github.com/andrei-ml/stochastic-rnn)  ![python](https://img.shields.io/badge/python-yellow)  
-![atmosphere](https://img.shields.io/badge/atmosphere-lightblue)
+- [Stochastic recurrent neural network](https://github.com/andrei-ml/stochastic-rnn)  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Ocean :ocean: 
