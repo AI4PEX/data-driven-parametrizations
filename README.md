@@ -17,35 +17,31 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 ### 🌲 Land
 - [Hybrid Q10 Model with Double Machine Learning](https://github.com/KaiHCohrs/hybrid-q10-model-chm)  
-  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen)  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-  [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1088/2632-2153/ad5a60)  
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1088/2632-2153/ad5a60)  
 
-- [Hybrid Variational Inference for Soil Organic Matter](https://github.com/EarthyScience/HybridVariationalInference.jl)  
-  ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen)  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+- [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
+  ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 **Coming soon:**  
-- MPG-BGC: Parameterizations of tree mortality directly from satellite and climate data  
-- ULUND: Tree mortality likelihood parameterization  
+- Parameterizations of tree mortality directly from satellite and climate data  
+- Tree mortality likelihood parameterization  
 
 ---
 
 ### ☁️ Atmosphere
-- [Stochastic Recurrent Neural Network for Atmospheric Regimes](https://github.com/andrei-ml/stochastic-rnn)  
-  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue)  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+- [Stochastic Recurrent Neural Network for modeling Atmospheric Regimes](https://github.com/andrei-ml/stochastic-rnn)  
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 **Coming soon:**  
-- DLR: Convection parameterization trained on ClimSim data for the ICON model  
-- METO: Improving vertical detail in simulated temperature and humidity  
+- Convection parameterization trained on ClimSim data for the ICON model  
+- Improving vertical detail in simulated temperature and humidity  
 
 ---
 
 ### 🌊 Ocean
 **Coming soon:**  
-- MF-CNRM: Emulation of PISCES biogeochemical model  
-- UREAD: Predicting eddy energy using a CNN for use in the scale-aware GEOMETRIC eddy parameterization  
+- Emulation of PISCES biogeochemical model  
+- Predicting eddy energy using a CNN for use in the scale-aware GEOMETRIC eddy parameterization  
 
 ---
 
