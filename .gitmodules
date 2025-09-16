@@ -1,5 +1,5 @@
-[submodule "hybrid-q10-model-chm"]
-	path = hybrid-q10-model-chm
+[submodule "Hybrid_Q10_Model"]
+	path = Hybrid_Q10_Model
 	url = https://github.com/KaiHCohrs/hybrid-q10-model-chm
 [submodule "Stochastic_Recurrent_Neural_Network"]
 	path = Stochastic_Recurrent_Neural_Network
