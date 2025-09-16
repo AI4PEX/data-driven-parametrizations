@@ -1,8 +1,8 @@
 [submodule "hybrid-q10-model-chm"]
 	path = hybrid-q10-model-chm
 	url = https://github.com/KaiHCohrs/hybrid-q10-model-chm
-[submodule "Stochastic RNN"]
-	path = stochastic-rnn
+[submodule "Stochastic_RNN"]
+	path = Stochastic_RNN
 	url = https://github.com/andrei-ml/stochastic-rnn
 [submodule "HybridVariationalInference.jl"]
 	path = HybridVariationalInference.jl
