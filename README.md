@@ -1,48 +1,68 @@
-## Data Driven Parametrizations :earth_africa:
+# 🌍 Data-Driven Parameterizations for Climate Models
 
+This repository collects machine learning–based parameterizations developed in the **AI4PEX project**, providing reusable modules for Earth system modeling.  
+Each parameterization is maintained as a submodule with its own documentation and license.  
 
+---
 
+## 🚀 Getting Started
 
-This repository contains a collection of data-driven and ML-based
-parametrization for climate models developed in the AI4PEX project. 
+- Browse the available parameterizations by domain (Land, Atmosphere, Ocean).  
+- Follow the links to each submodule’s **README** for setup and usage.  
+- Quickstart guides (coming soon) will provide examples for applying each method to your own data and challenges.  
 
-----------
+---
 
-#### TODOs
+## 📂 Available Parameterizations
 
-- [ ] collect more paramterizations
-- [ ] add short descriptions per method
-- [ ] add here direct links to Quickstart for each method
-- [ ] update folder names
-- [ ] revise licenses and documentation 
-- [ ] clean repo history
+### 🌲 Land
+- [Hybrid Q10 Model with Double Machine Learning](https://github.com/KaiHCohrs/hybrid-q10-model-chm)  
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen)  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+  [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1088/2632-2153/ad5a60)  
 
+- [Hybrid Variational Inference for Soil Organic Matter](https://github.com/EarthyScience/HybridVariationalInference.jl)  
+  ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen)  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-### Point of contact :email:
+**Coming soon:**  
+- MPG-BGC: Parameterizations of tree mortality directly from satellite and climate data  
+- ULUND: Tree mortality likelihood parameterization  
 
-[ISP at UVEG](https://isp.uv.es/) 
+---
 
-- Gherardo Varando <gherardo.varando@uv.es>
-- Andrei Gavrilov <andrei.gavrilov@uv.es> 
-- Kai-Hendrik Cohrs <kai.cohrs@uv.es> 
+### ☁️ Atmosphere
+- [Stochastic Recurrent Neural Network for Atmospheric Regimes](https://github.com/andrei-ml/stochastic-rnn)  
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue)  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
+**Coming soon:**  
+- DLR: Convection parameterization trained on ClimSim data for the ICON model  
+- METO: Improving vertical detail in simulated temperature and humidity  
 
+---
 
+### 🌊 Ocean
+**Coming soon:**  
+- MF-CNRM: Emulation of PISCES biogeochemical model  
+- UREAD: Predicting eddy energy using a CNN for use in the scale-aware GEOMETRIC eddy parameterization  
 
+---
 
-## Land :evergreen_tree: 
-- [Hybrid Q10 Model with Double Machine Learning](https://github.com/KaiHCohrs/hybrid-q10-model-chm)  ![python](https://img.shields.io/badge/python-yellow)  ![land](https://img.shields.io/badge/land-darkgreen)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1088/2632-2153/ad5a60)  
+## 📋 Roadmap
 
-- [Hybrid Variational Inference](https://github.com/EarthyScience/HybridVariationalInference.jl)  ![python](https://img.shields.io/badge/julia-yellow)  ![land](https://img.shields.io/badge/land-darkgreen)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+- [ ] Add quickstart guides for each method  
+- [ ] Expand documentation and folder organization  
+- [ ] Review licenses and contribution guidelines  
+- [ ] Publish repository for public access  
 
+---
 
-## Atmosphere :cloud:
+## 📬 Contact
 
-- [Stochastic recurrent neural network](https://github.com/andrei-ml/stochastic-rnn)  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+For questions and contributions, please reach out to the [ISP at UVEG](https://isp.uv.es/):  
+- Gherardo Varando <gherardo.varando@uv.es>  
+- Andrei Gavrilov <andrei.gavrilov@uv.es>  
+- Kai-Hendrik Cohrs <kai.cohrs@uv.es>  
 
-## Ocean :ocean: 
-
-
-
-
+---
