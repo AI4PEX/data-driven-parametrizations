@@ -7,3 +7,6 @@
 [submodule "Hybrid_Variational_Inference"]
 	path = Hybrid_Variational_Inference
 	url = https://github.com/EarthyScience/HybridVariationalInference.jl
+[submodule "Hybrid_JSBACH"]
+	path = Hybrid_JSBACH
+	url = https://github.com/relghawi/Hybrid_JSBACH_Example
