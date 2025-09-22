@@ -10,3 +10,6 @@
 [submodule "Hybrid_JSBACH"]
 	path = Hybrid_JSBACH
 	url = https://github.com/relghawi/Hybrid_JSBACH_Example
+[submodule "Equation_Discovery_of_Cloud_Cover_Parameterization"]
+	path = Equation_Discovery_of_Cloud_Cover_Parameterization
+	url = https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover
