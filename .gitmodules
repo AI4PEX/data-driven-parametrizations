@@ -13,3 +13,6 @@
 [submodule "Equation_Discovery_of_Cloud_Cover_Parameterization"]
 	path = Equation_Discovery_of_Cloud_Cover_Parameterization
 	url = https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover
+[submodule "ICON_A_Automatic_Tuning"]
+	path = ICON_A_Automatic_Tuning
+	url = https://github.com/EyringMLClimateGroup/grundner25_iconaml_automatic_tuning
