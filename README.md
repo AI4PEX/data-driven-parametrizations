@@ -27,6 +27,8 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 - [NN-based Respiration and GPP from Flux Partitioning](https://github.com/KaiHCohrs/nn-flux-part)  
   ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1088/2632-2153/ad5a60)
+  - **Quickstart** [on learning fluxes with NNs](https://github.com/KaiHCohrs/nn-flux-part/blob/main/notebooks/baseline.ipynb)
+  
   
 - [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
   ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
