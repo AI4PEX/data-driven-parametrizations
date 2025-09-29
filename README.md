@@ -26,7 +26,7 @@ Each parameterization is maintained as a submodule with its own documentation an
   ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1088/2632-2153/ad5a60)
 
 - [NN-based Respiration and GPP from Flux Partitioning](https://github.com/KaiHCohrs/nn-flux-part)  
-  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![presentation](https://img.shields.io/badge/paper-gray)](https://meetingorganizer.copernicus.org/EGU25/EGU25-19561.html)
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   - [Quickstart](https://github.com/KaiHCohrs/nn-flux-part/blob/main/notebooks/baseline.ipynb) on learning fluxes with NNs
   
   
