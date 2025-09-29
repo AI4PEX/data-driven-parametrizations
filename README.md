@@ -22,8 +22,6 @@ Each parameterization is maintained as a submodule with its own documentation an
 ---
 
 ### 🌲 Land
-- [Semi-parametric Hybrid Modeling (including Q10 model)](https://github.com/KaiHCohrs/semi-param-hybrid-model) (Coming Soon)  
-  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - [NN-based Respiration and GPP from Flux Partitioning](https://github.com/KaiHCohrs/nn-flux-part)  
   ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -34,6 +32,7 @@ Each parameterization is maintained as a submodule with its own documentation an
   ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 **Coming soon:**  
+- Semi-parametric Hybrid Modeling (including Q10 model)
 - Parameterizations of tree mortality directly from satellite and climate data  
 - Tree mortality likelihood parameterization  
 
@@ -65,7 +64,7 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 ### 🌊 Ocean
 **Coming soon:**  
-- Emulation of PISCES biogeochemical model  
+- Emulation of PISCES biogeochemical model (for details, contact Edward Thornton, <edward.gow-smith@meteo.fr>) 
 - Predicting eddy energy using a CNN for use in the scale-aware GEOMETRIC eddy parameterization  
 
 ---
