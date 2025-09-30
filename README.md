@@ -32,7 +32,7 @@ Each parameterization is maintained as a submodule with its own documentation an
   ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 - [MortNetSE parameterization pipeline](https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline)  
-  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0)  
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) 
     - **Quickstart notebook** [here](https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline) 
 
 **Coming soon:**  
@@ -78,6 +78,12 @@ Each parameterization is maintained as a submodule with its own documentation an
 - [ ] Add quickstart guides for each method  
 - [ ] Expand documentation and folder organization  
 - [ ] Review contribution guidelines   
+
+---
+
+## License
+
+Please check out License for each submodule linked in this repository.
 
 ---
 
