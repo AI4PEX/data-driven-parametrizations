@@ -16,9 +16,6 @@
 [submodule "NN_CO2_Flux_Partitioning"]
 	path = NN_CO2_Flux_Partitioning
 	url = https://github.com/KaiHCohrs/nn-flux-part
-[submodule "MortNetSE"]
-	path = MortNetSE
-	url = https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline
 [submodule "MortNetSE_quickstart"]
 	path = MortNetSE_quickstart
 	url = https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline
