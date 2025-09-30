@@ -38,7 +38,6 @@ Each parameterization is maintained as a submodule with its own documentation an
 **Coming soon:**  
 - Semi-parametric Hybrid Modeling (including Q10 model)
 - Parameterizations of tree mortality directly from satellite and climate data  
-- Tree mortality likelihood parameterization  
 
 ---
 
