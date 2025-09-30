@@ -19,3 +19,6 @@
 [submodule "MortNetSE_quickstart"]
 	path = MortNetSE_quickstart
 	url = https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline
+[submodule "MortNetSE"]
+	path = MortNetSE
+	url = https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline
