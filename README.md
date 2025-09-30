@@ -31,6 +31,10 @@ Each parameterization is maintained as a submodule with its own documentation an
 - [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
   ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
+- [MortNetSE parameterization pipeline](https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline)  
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0)  
+    - **Quickstart notebook** [here](https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline) 
+
 **Coming soon:**  
 - Semi-parametric Hybrid Modeling (including Q10 model)
 - Parameterizations of tree mortality directly from satellite and climate data  
