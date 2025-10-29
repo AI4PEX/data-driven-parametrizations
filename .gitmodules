@@ -19,3 +19,6 @@
 [submodule "MortNetSE_quickstart"]
 	path = MortNetSE_quickstart
 	url = https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline
+[submodule "Dynamic_Mode_Decomposition_With_Control"]
+	path = Dynamic_Mode_Decomposition_With_Control
+	url = https://github.com/nmank/DMDc4Climate

@@ -48,7 +48,7 @@ Each parameterization is maintained as a submodule with its own documentation an
   - **Guide:** [How to implement the data-driven cloud cover equation in ICON-A (2.6.4.)](https://github.com/AI4PEX/data-driven-parametrizations/blob/main/How_to_bridge_to_ICON.md) 
 
 - [Hierarchical modeling framework to discover new ML-based equations for cloud cover, including symbolic regression](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover)  
-  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2023MS003763) 
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2023MS003763) 
 
   - **Quickstarts** on a data-driven cloud cover equation discovery:
     - [from synthetic data](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover/blob/main/quickstart_synth_data.ipynb) 
@@ -58,6 +58,9 @@ Each parameterization is maintained as a submodule with its own documentation an
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
     - [Quickstart](https://github.com/andrei-ml/stochastic-rnn/blob/main/quickstart_with_synthetic_example/quickstart.ipynb) using synthetic data
   
+- [Dynamic Mode Decomposition With Control: Analyzing Climate Scenarios](https://github.com/nmank/DMDc4Climate)  
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1017/eds.2025.8) 
+    - [Quickstart](https://github.com/nmank/DMDc4Climate/blob/main/getting_started.ipynb) 
 
 **Coming soon:**  
 - Convection parameterization trained on ClimSim data for the ICON model  
