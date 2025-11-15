@@ -22,3 +22,6 @@
 [submodule "Dynamic_Mode_Decomposition_With_Control"]
 	path = Dynamic_Mode_Decomposition_With_Control
 	url = https://github.com/nmank/DMDc4Climate
+[submodule "Convection_Parameterizations_for_ICON_A"]
+	path = Convection_Parameterizations_for_ICON_A
+	url = https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim
