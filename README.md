@@ -1,6 +1,6 @@
 # 🌍 Data-Driven Parameterizations for Climate Models
 
-This repository collects machine learning–based parameterizations developed in the **AI4PEX project**, providing reusable modules for Earth system modeling.  
+This repository collects machine learning–based parameterizations and emulators of climate processes developed in the **AI4PEX project**, providing reusable modules for Earth system modeling.  
 Each parameterization is maintained as a submodule with its own documentation and license.  
 
 ---
@@ -22,10 +22,6 @@ Each parameterization is maintained as a submodule with its own documentation an
 ---
 
 ### 🌲 Land
-
-- [NN-based Respiration and GPP from Flux Partitioning](https://github.com/KaiHCohrs/nn-flux-part)  
-  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  - [Quickstart](https://github.com/KaiHCohrs/nn-flux-part/blob/main/notebooks/baseline.ipynb) on learning fluxes with NNs
   
   
 - [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
@@ -57,10 +53,6 @@ Each parameterization is maintained as a submodule with its own documentation an
 - [Stochastic Recurrent Neural Network for modeling Atmospheric Regimes](https://github.com/andrei-ml/stochastic-rnn)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
     - [Quickstart](https://github.com/andrei-ml/stochastic-rnn/blob/main/quickstart_with_synthetic_example/quickstart.ipynb) using synthetic data
-  
-- [Dynamic Mode Decomposition With Control: Analyzing Climate Scenarios](https://github.com/nmank/DMDc4Climate)  
-  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1017/eds.2025.8) 
-    - [Quickstart](https://github.com/nmank/DMDc4Climate/blob/main/getting_started.ipynb) 
 
 - [Confidence-Guided Mixing of Parameterizations in a Hybrid AI-Climate Model](https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2510.08107) 
