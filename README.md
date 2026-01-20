@@ -9,7 +9,7 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 - Browse the available parameterizations by domain (Land, Atmosphere, Ocean).  
 - Follow the links to each submodule’s **README** for setup and usage.  
-- Quickstart guides (coming soon) will provide examples for applying each method to your own data and challenges.  
+- Quickstart guides will provide examples for applying each method to your own data and challenges.  
 
 ---
 
@@ -17,7 +17,7 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 ### 🌲 Land + ☁️ Atmosphere
 - [Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
-  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.22541/essoar.174439495.50028878/v1) 
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025MS005102) 
 
 ---
 
@@ -50,6 +50,12 @@ Each parameterization is maintained as a submodule with its own documentation an
     - [from synthetic data](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover/blob/main/quickstart_synth_data.ipynb) 
     - [from real data](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover/blob/main/quickstart_real_data.ipynb) 
 
+- [ClimSim Kaggle Edition: Online Testing of Machine Learning Emulators of Cloud and Convection Processes](https://github.com/leap-stc/climsim-kaggle-edition)  
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2511.20963) 
+
+  - [Demo notebooks](https://github.com/leap-stc/climsim-kaggle-edition/tree/main/demo_notebooks) 
+
+
 - [Stochastic Recurrent Neural Network for modeling Atmospheric Regimes](https://github.com/andrei-ml/stochastic-rnn)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
     - [Quickstart](https://github.com/andrei-ml/stochastic-rnn/blob/main/quickstart_with_synthetic_example/quickstart.ipynb) using synthetic data
@@ -75,12 +81,6 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 ---
 
-## 📋 Roadmap
-
-- [ ] Add quickstart guides for each method  
-- [ ] Expand documentation and folder organization     
-
----
 
 ## License
 
@@ -91,8 +91,8 @@ Please check out License for each submodule linked in this repository.
 ## 📬 Contact
 
 For questions and contributions, please reach out to the [ISP at UVEG](https://isp.uv.es/):  
-- Gherardo Varando <gherardo.varando@uv.es>  
 - Andrei Gavrilov <andrei.gavrilov@uv.es>  
+- Gherardo Varando <gherardo.varando@uv.es>  
 - Kai-Hendrik Cohrs <kai.cohrs@uv.es>  
 
 ---
