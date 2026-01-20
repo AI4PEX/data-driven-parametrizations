@@ -19,3 +19,6 @@
 [submodule "Convection_Parameterizations_for_ICON_A"]
 	path = Convection_Parameterizations_for_ICON_A
 	url = https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim
+[submodule "ClimSim_Kaggle_Edition"]
+	path = ClimSim_Kaggle_Edition
+	url = https://github.com/leap-stc/climsim-kaggle-edition
