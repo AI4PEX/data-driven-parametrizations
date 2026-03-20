@@ -72,12 +72,14 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 ### 🌊 Ocean
 
+- [CNN and U-Net models for a Machine Learning eddy parameterisation for NEMO](https://github.com/thomaswilder/ml_model_ai4pex)  
+  ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) 
+
 - [Leith subgrid closures for parameterising mesoscale eddies in idealised and global (NEMO) ocean models](https://zenodo.org/records/15703784)  
   ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.22541/essoar.173776311.10898173/v1) 
 
 **Coming soon:**  
-- Emulation of PISCES biogeochemical model (for details, contact Edward Thornton, <edward.gow-smith@meteo.fr>) 
-- Predicting eddy energy using a CNN for use in the scale-aware GEOMETRIC eddy parameterization  
+- Emulation of PISCES biogeochemical model (for details, contact Edward Thornton, <edward.gow-smith@meteo.fr>)  
 
 ---
 

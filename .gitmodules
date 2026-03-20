@@ -22,3 +22,6 @@
 [submodule "ClimSim_Kaggle_Edition"]
 	path = ClimSim_Kaggle_Edition
 	url = https://github.com/leap-stc/climsim-kaggle-edition
+[submodule "ml_eddy_parameterisation_NEMO"]
+	path = ml_eddy_parameterisation_NEMO
+	url = https://github.com/thomaswilder/ml_model_ai4pex
