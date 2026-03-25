@@ -33,9 +33,7 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 - [Enhancement of Physical Models with Rashomon-Set-Controlled Deep Learning for Robust Inference and Extrapolation](https://github.com/KaiHCohrs/rashomon-hybrid-modeling)  
   ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) 
-
-**Coming soon:**  
-- Parameterizations of tree mortality directly from satellite and climate data  
+ 
 
 ---
 
@@ -64,11 +62,7 @@ Each parameterization is maintained as a submodule with its own documentation an
 
 - [Confidence-Guided Mixing of Parameterizations in a Hybrid AI-Climate Model](https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2510.08107) 
-
-
-**Coming soon:**  
  
-- Improving vertical detail in simulated temperature and humidity  
 
 ---
 
