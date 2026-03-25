@@ -31,8 +31,10 @@ Each parameterization is maintained as a submodule with its own documentation an
   ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) 
     - **Quickstart notebook** [here](https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline) 
 
+- [Enhancement of Physical Models with Rashomon-Set-Controlled Deep Learning for Robust Inference and Extrapolation](https://github.com/KaiHCohrs/rashomon-hybrid-modeling)  
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) 
+
 **Coming soon:**  
-- Semi-parametric Hybrid Modeling (including Q10 model)
 - Parameterizations of tree mortality directly from satellite and climate data  
 
 ---

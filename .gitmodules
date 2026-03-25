@@ -25,3 +25,6 @@
 [submodule "ml_eddy_parameterisation_NEMO"]
 	path = ml_eddy_parameterisation_NEMO
 	url = https://github.com/thomaswilder/ml_model_ai4pex
+[submodule "Rashomon_Hybrid_Modeling"]
+	path = Rashomon_Hybrid_Modeling
+	url = https://github.com/KaiHCohrs/rashomon-hybrid-modeling
