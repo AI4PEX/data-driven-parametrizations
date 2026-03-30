@@ -72,10 +72,7 @@ Each parameterization is maintained as a submodule with its own documentation an
   ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 - [Leith subgrid closures for parameterising mesoscale eddies in idealised and global (NEMO) ocean models](https://zenodo.org/records/15703784)  
-  ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.22541/essoar.173776311.10898173/v1) 
-
-**Coming soon:**  
-- Emulation of PISCES biogeochemical model (for details, contact Edward Thornton, <edward.gow-smith@meteo.fr>)  
+  ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.22541/essoar.173776311.10898173/v1)  
 
 ---
 
