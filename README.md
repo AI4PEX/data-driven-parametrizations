@@ -71,8 +71,12 @@ Each parameterization is maintained as a submodule with its own documentation an
 - [CNN and U-Net models for a Machine Learning eddy parameterisation for NEMO](https://github.com/thomaswilder/ml_model_ai4pex)  
   ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+- [PISCES-AI: a U-Net based emulator of the PISCES biogeochemical model](https://github.com/edwardgowsmith/PISCES-AI)  
+  ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) 
+
 - [Leith subgrid closures for parameterising mesoscale eddies in idealised and global (NEMO) ocean models](https://zenodo.org/records/15703784)  
   ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.22541/essoar.173776311.10898173/v1)  
+
 
 ---
 

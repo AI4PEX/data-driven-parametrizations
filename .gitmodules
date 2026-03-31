@@ -28,3 +28,6 @@
 [submodule "Rashomon_Hybrid_Modeling"]
 	path = Rashomon_Hybrid_Modeling
 	url = https://github.com/KaiHCohrs/rashomon-hybrid-modeling
+[submodule "PISCES-AI"]
+	path = PISCES-AI
+	url = https://github.com/edwardgowsmith/PISCES-AI
