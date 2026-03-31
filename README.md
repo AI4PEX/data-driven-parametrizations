@@ -16,7 +16,7 @@ Each parameterization is maintained as a submodule with its own documentation an
 ## 📂 Available Parameterizations
 
 ### 🌲 Land + ☁️ Atmosphere
-- [Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
+- [Hybrid JSBACH: Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
   ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025MS005102) 
 
 ---
@@ -38,12 +38,12 @@ Each parameterization is maintained as a submodule with its own documentation an
 ---
 
 ### ☁️ Atmosphere
-- [First ICON-A-MLe model: Data-driven cloud cover equation in ICON-A 2.6.4 with subsequent automatic tuning](https://github.com/EyringMLClimateGroup/grundner25_iconaml_automatic_tuning)  
+- [ICON-A Automatic Tuning: First ICON-A-MLe model: Data-driven cloud cover equation in ICON-A 2.6.4 with subsequent automatic tuning](https://github.com/EyringMLClimateGroup/grundner25_iconaml_automatic_tuning)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2505.04358) 
 
   - **Guide:** [How to implement the data-driven cloud cover equation in ICON-A (2.6.4.)](https://github.com/AI4PEX/data-driven-parametrizations/blob/main/How_to_bridge_to_ICON.md) 
 
-- [Hierarchical modeling framework to discover new ML-based equations for cloud cover, including symbolic regression](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover)  
+- [Equation Discovery of Cloud Cover Parameterization: Hierarchical modeling framework to discover new ML-based equations for cloud cover, including symbolic regression](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2023MS003763) 
 
   - **Quickstarts** on a data-driven cloud cover equation discovery:
