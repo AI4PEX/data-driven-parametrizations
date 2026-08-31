@@ -31,3 +31,6 @@
 [submodule "PISCES-AI"]
 	path = PISCES-AI
 	url = https://github.com/edwardgowsmith/PISCES-AI
+[submodule "Vertical_Superresolution"]
+	path = Vertical_Superresolution
+	url = https://github.com/jdsrodrigues/superresolution.git
