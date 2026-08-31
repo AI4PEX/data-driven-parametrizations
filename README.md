@@ -10,6 +10,10 @@ Each parameterization is maintained as a submodule with its own documentation an
 - Browse the available parameterizations by domain (Land, Atmosphere, Ocean).  
 - Follow the links to each submodule’s **README** for setup and usage.  
 - Quickstart guides will provide examples for applying each method to your own data and challenges.  
+- To clone the repository including all submodules:
+```bash
+git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametrizations
+```
 
 ---
 
@@ -63,6 +67,8 @@ Each parameterization is maintained as a submodule with its own documentation an
 - [Convection parameterizations for ICON-A: Confidence-Guided Mixing of Parameterizations in a Hybrid AI-Climate Model](https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim)  
   ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2510.08107) 
  
+ - [Vertical superresolution: Improving Vertical Detail in Simulated Temperature and Humidity Data Using Machine Learning](https://github.com/jdsrodrigues/superresolution)  
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1002/asl.1288)
 
 ---
 
