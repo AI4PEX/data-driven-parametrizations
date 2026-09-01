@@ -43,7 +43,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 ### ☁️ Atmosphere
 - [ICON-A Automatic Tuning: First ICON-A-MLe model: Data-driven cloud cover equation in ICON-A 2.6.4 with subsequent automatic tuning](https://github.com/EyringMLClimateGroup/grundner25_iconaml_automatic_tuning)  
-  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2505.04358) 
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1038/s41598-025-29155-3) 
 
   - **Guide:** [How to implement the data-driven cloud cover equation in ICON-A (2.6.4.)](https://github.com/AI4PEX/data-driven-parametrizations/blob/main/How_to_bridge_to_ICON.md) 
 
