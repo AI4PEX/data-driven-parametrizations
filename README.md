@@ -55,7 +55,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
     - [from real data](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover/blob/main/quickstart_real_data.ipynb) 
 
 - [ClimSim Kaggle Edition: Online Testing of Machine Learning Emulators of Cloud and Convection Processes](https://github.com/leap-stc/climsim-kaggle-edition)  
-  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.48550/arXiv.2511.20963) 
+  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025MS005643) 
 
   - [Demo notebooks](https://github.com/leap-stc/climsim-kaggle-edition/tree/main/demo_notebooks) 
 
