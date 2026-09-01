@@ -83,6 +83,8 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 - [Leith subgrid closures for parameterising mesoscale eddies in idealised and global (NEMO) ocean models](https://zenodo.org/records/15703784)  
   ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.22541/essoar.173776311.10898173/v1)  
 
+- [Euler Gradient Approximation: Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems](https://github.com/saidOUALA/EGA)  
+  ![python](https://img.shields.io/badge/python-yellow) ![ocean](https://img.shields.io/badge/ocean-blue) [![paper](https://img.shields.io/badge/paper-gray)](https://www.nature.com/articles/s42005-024-01880-7)
 
 ---
 

@@ -34,3 +34,6 @@
 [submodule "Vertical_Superresolution"]
 	path = Vertical_Superresolution
 	url = https://github.com/jdsrodrigues/superresolution.git
+[submodule "Euler_Gradient_Approximation"]
+	path = Euler_Gradient_Approximation
+	url = https://github.com/saidOUALA/EGA
