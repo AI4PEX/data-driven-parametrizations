@@ -1,7 +1,7 @@
 # 🌍 Data-Driven Parameterizations for Climate Models
 
 This repository collects machine learning–based parameterizations and emulators of climate processes developed in the **AI4PEX project**, providing reusable modules for Earth system modeling.  
-Each parameterization is maintained as a submodule with its own documentation and license.  Note: The equation discovery module (Grundner 2024) is provided as Background IP necessary for the ICON-A-MLe integration developed under AI4PEX.
+Each parameterization is maintained as a submodule with its own documentation and license.  
 
 ---
 
@@ -27,7 +27,9 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 ### 🌲 Land
   
-  
+- [Engression-LSTM: Modeling Uncertainty With Engression, a Deep Generative Time-Series Approach for Streamflow Regression](https://github.com/bask0/mach-flow-engression)  
+  ![python](https://img.shields.io/badge/python-yellow) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025GL120122)
+    
 - [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
   ![julia](https://img.shields.io/badge/julia-purple) ![land](https://img.shields.io/badge/land-darkgreen) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 

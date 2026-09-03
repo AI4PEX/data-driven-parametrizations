@@ -37,3 +37,6 @@
 [submodule "Euler_Gradient_Approximation"]
 	path = Euler_Gradient_Approximation
 	url = https://github.com/saidOUALA/EGA
+[submodule "Engression-LSTM"]
+	path = Engression-LSTM
+	url = https://github.com/bask0/mach-flow-engression
