@@ -47,9 +47,6 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
   - **Guide:** [How to implement the data-driven cloud cover equation in ICON-A (2.6.4.)](https://github.com/AI4PEX/data-driven-parametrizations/blob/main/How_to_bridge_to_ICON.md) 
 
-- [Equation Discovery of Cloud Cover Parameterization: Hierarchical modeling framework to discover new ML-based equations for cloud cover, including symbolic regression](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover)  
-  ![python](https://img.shields.io/badge/python-yellow) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2023MS003763) 
-
   - **Quickstarts** on a data-driven cloud cover equation discovery:
     - [from synthetic data](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover/blob/main/quickstart_synth_data.ipynb) 
     - [from real data](https://github.com/EyringMLClimateGroup/grundner23james_EquationDiscovery_CloudCover/blob/main/quickstart_real_data.ipynb) 
