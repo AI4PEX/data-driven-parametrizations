@@ -1,7 +1,7 @@
 # 🌍 Data-Driven Parameterizations for Climate Models
 
 This repository collects machine learning–based parameterizations and emulators of climate processes developed in the **AI4PEX project**, providing reusable modules for Earth system modeling.  
-Each parameterization is maintained as a submodule with its own documentation and license.  
+Each parameterization is maintained as a submodule with its own documentation and license.  Note: The equation discovery module (Grundner 2024) is provided as Background IP necessary for the ICON-A-MLe integration developed under AI4PEX.
 
 ---
 
