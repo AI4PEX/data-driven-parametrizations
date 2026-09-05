@@ -35,7 +35,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 ### 🔗 Hybrid and semiparametric modeling strategies
 
-- [Enhancement of Physical Models with Rashomon-Set-Controlled Deep Learning for Robust Inference and Extrapolation](https://github.com/KaiHCohrs/rashomon-hybrid-modeling)  
+- [Rashomon-Set-Controlled Deep Learning for Robust Inference and Extrapolation](https://github.com/KaiHCohrs/rashomon-hybrid-modeling)  
   ![generic](https://img.shields.io/badge/generic-gray) ![land](https://img.shields.io/badge/land-darkgreen) ![python](https://img.shields.io/badge/python-yellow) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 - [Hybrid JSBACH: Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
@@ -67,7 +67,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 - [PISCES-AI: a U-Net based emulator of the PISCES biogeochemical model](https://github.com/edwardgowsmith/PISCES-AI)  
   ![ocean](https://img.shields.io/badge/ocean-blue) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0)
 
-- [MortNetSE parameterization pipeline](https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline)  
+- [MortNetSE: parameterization pipeline](https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline)  
   ![land](https://img.shields.io/badge/land-darkgreen) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) 
     - Includes a **quickstart notebook** with example data
 
