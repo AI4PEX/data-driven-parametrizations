@@ -40,6 +40,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 - [Hybrid JSBACH: Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
   ![land](https://img.shields.io/badge/land-darkgreen) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025MS005102) 
+    - [Quickstart notebook](https://github.com/relghawi/Hybrid_JSBACH_Example/blob/main/Params_example.ipynb) with example data from a single site
 
 - [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
   ![land](https://img.shields.io/badge/land-darkgreen) ![julia](https://img.shields.io/badge/julia-purple) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
@@ -63,6 +64,8 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 - [CNN and U-Net models for a Machine Learning eddy parameterisation for NEMO](https://github.com/thomaswilder/ml_model_ai4pex)  
   ![ocean](https://img.shields.io/badge/ocean-blue) ![python](https://img.shields.io/badge/python-yellow) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+      
+  - [Offline analysis notebook](https://github.com/thomaswilder/ml_model_ai4pex/blob/main/examples/sample_offline_analysis.ipynb) with a sample dataset and pre-trained model
 
 - [PISCES-AI: a U-Net based emulator of the PISCES biogeochemical model](https://github.com/edwardgowsmith/PISCES-AI)  
   ![ocean](https://img.shields.io/badge/ocean-blue) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0)
@@ -82,7 +85,8 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 - [Euler Gradient Approximation: Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems](https://github.com/saidOUALA/EGA)  
   ![generic](https://img.shields.io/badge/generic-gray) ![ocean](https://img.shields.io/badge/ocean-blue) ![python](https://img.shields.io/badge/python-yellow) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![paper](https://img.shields.io/badge/paper-gray)](https://www.nature.com/articles/s42005-024-01880-7)
-
+    - [Example notebooks](https://github.com/saidOUALA/EGA/tree/master/L63) for the Lorenz 63 case study
+    
 - [ICON-A Automatic Tuning: First ICON-A-MLe model: Data-driven cloud cover equation in ICON-A 2.6.4 with subsequent automatic tuning](https://github.com/EyringMLClimateGroup/grundner25_iconaml_automatic_tuning)  
   ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) ![python](https://img.shields.io/badge/python-yellow) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1038/s41598-025-29155-3) 
 
