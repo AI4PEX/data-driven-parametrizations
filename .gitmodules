@@ -13,9 +13,6 @@
 [submodule "ICON_A_Automatic_Tuning"]
 	path = ICON_A_Automatic_Tuning
 	url = https://github.com/EyringMLClimateGroup/grundner25_iconaml_automatic_tuning
-[submodule "MortNetSE_quickstart"]
-	path = MortNetSE_quickstart
-	url = https://github.com/AdrianGustafson/MortNetSE-parameterisation-pipeline
 [submodule "Convection_Parameterizations_for_ICON_A"]
 	path = Convection_Parameterizations_for_ICON_A
 	url = https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim
@@ -40,3 +37,6 @@
 [submodule "Engression-LSTM"]
 	path = Engression-LSTM
 	url = https://github.com/bask0/mach-flow-engression
+[submodule "MortNetSE"]
+	path = MortNetSE
+	url = https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline.git
