@@ -70,7 +70,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 - [PISCES-AI: a U-Net based emulator of the PISCES biogeochemical model](https://github.com/edwardgowsmith/PISCES-AI)  
   ![ocean](https://img.shields.io/badge/ocean-blue) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0)
 
-- [MortNetSE: parameterization pipeline](https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline)  
+- [MortNetSE: Machine learned tree mortality parameterisation](https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline)  
   ![land](https://img.shields.io/badge/land-darkgreen) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) 
     - Includes a **quickstart notebook** with example data
 
