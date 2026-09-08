@@ -37,3 +37,6 @@
 [submodule "Engression-LSTM"]
 	path = Engression-LSTM
 	url = https://github.com/bask0/mach-flow-engression
+[submodule "MortNetSE"]
+	path = MortNetSE
+	url = https://stormbringer4.nateko.lu.se/ai4pex/mortnetse-training-pipeline.git
