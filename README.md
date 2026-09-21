@@ -35,7 +35,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 ### 🔗 Hybrid and semiparametric modeling strategies
 
-- [Rashomon-Set-Controlled Deep Learning for Robust Inference and Extrapolation](https://github.com/KaiHCohrs/rashomon-set-controlled-hybrid-modeling)  
+- [Rashomon-Set-Controlled Hybrid Modeling](https://github.com/KaiHCohrs/rashomon-set-controlled-hybrid-modeling)  
   ![generic](https://img.shields.io/badge/generic-gray) ![land](https://img.shields.io/badge/land-darkgreen) ![python](https://img.shields.io/badge/python-yellow) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 - [Hybrid JSBACH: Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
