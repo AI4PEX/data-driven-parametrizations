@@ -1,9 +1,6 @@
 [submodule "Stochastic_Recurrent_Neural_Network"]
 	path = Stochastic_Recurrent_Neural_Network
 	url = https://github.com/andrei-ml/stochastic-rnn
-[submodule "Hybrid_Variational_Inference"]
-	path = Hybrid_Variational_Inference
-	url = https://github.com/EarthyScience/HybridVariationalInference.jl
 [submodule "Hybrid_JSBACH"]
 	path = Hybrid_JSBACH
 	url = https://github.com/relghawi/Hybrid_JSBACH_Example
