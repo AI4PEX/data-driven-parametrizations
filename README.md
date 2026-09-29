@@ -40,10 +40,7 @@ git clone --recurse-submodules https://github.com/AI4PEX/data-driven-parametriza
 
 - [Hybrid JSBACH: Hybrid Model of Land-Atmosphere Fluxes for ICON-ESM](https://github.com/relghawi/Hybrid_JSBACH_Example)  
   ![land](https://img.shields.io/badge/land-darkgreen) ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) ![python](https://img.shields.io/badge/python-yellow) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025MS005102) 
-    - [Quickstart notebook](https://github.com/relghawi/Hybrid_JSBACH_Example/blob/main/Params_example.ipynb) with example data from a single site
-
-- [Hybrid Variational Inference for Soil Organic Matter dynamics](https://github.com/EarthyScience/HybridVariationalInference.jl)  
-  ![land](https://img.shields.io/badge/land-darkgreen) ![julia](https://img.shields.io/badge/julia-purple) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+    - [Quickstart notebook](https://github.com/relghawi/Hybrid_JSBACH_Example/blob/main/Params_example.ipynb) with example data from a single site 
 
 - [Convection parameterizations for ICON-A: Confidence-Guided Mixing of Parameterizations in a Hybrid AI-Climate Model](https://github.com/EyringMLClimateGroup/heuer25james_ml_convection_climsim)  
   ![atmosphere](https://img.shields.io/badge/atmosphere-lightblue) ![python](https://img.shields.io/badge/python-yellow) [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2-0) [![paper](https://img.shields.io/badge/paper-gray)](https://doi.org/10.1029/2025MS005544) 
